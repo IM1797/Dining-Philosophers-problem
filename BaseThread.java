@@ -17,7 +17,7 @@ import java.util.Random;
  */
 
   /*
- * Done Mehrdod Ilhompur  */
+ * Done by Mehrdod Ilhompur  */
 public class BaseThread extends Thread
 {
 	/*

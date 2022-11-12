@@ -7,7 +7,7 @@
  */
 
 /*
- * Done Mehrdod Ilhompur 
+ * Done by Mehrdod Ilhompur 
  */
 public class Monitor {
 	enum State {

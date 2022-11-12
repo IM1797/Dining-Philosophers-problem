@@ -7,7 +7,7 @@ import java.util.Random;
  */
 
   /*
- * Mehrdod Ilhompur  */
+ * Done by Mehrdod Ilhompur  */
 public class Philosopher extends BaseThread {
 	/**
 	 * Max time an action can take (in milliseconds)
